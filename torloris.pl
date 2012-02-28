@@ -1,3 +1,5 @@
+#!/bin/perl
+
 ##################TorLoris######################
 # Based on the SlowLoris tool by Robert "RSnake" Hansen
 # http://ha.ckers.org/slowloris/
