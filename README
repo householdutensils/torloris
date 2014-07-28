@@ -1,4 +1,4 @@
-This is a pretty crap implmentation of Robert "RSnake" Hansen's
+This is an implmentation of Robert "RSnake" Hansen's
 SlowLoris attack tool (http://ha.ckers.org/slowloris/) using
 multiple tor proxies locally to obfuscate the attacker.
 
